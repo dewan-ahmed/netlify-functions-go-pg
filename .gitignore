@@ -1,0 +1,22 @@
+# Compiled Object files
+*.o
+*.a
+*.exe
+
+# Compiled Go binary files
+*.test
+*.out
+
+# Dependency directories
+vendor/
+go.sum
+
+# Output directories
+bin/
+pkg/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
